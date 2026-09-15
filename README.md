@@ -1,4 +1,3 @@
-# react-router-lab
 # React Router Lab: Navigation & Route Flow
 
 A client-side routed React application demonstrating route organization, slug-based blog routing, protected administrative views, and smooth route transitions built with **React Router** and **Framer Motion**.
