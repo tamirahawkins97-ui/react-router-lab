@@ -1,3 +1,4 @@
+import './App.css';
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import { Navbar } from './NavBar';
